@@ -118,15 +118,7 @@
     counter: 0,
     hoverImages: [
                   "assets/profile/IMG_3176.webp ",
-                  "assets/profile/IMG_3177.webp ",
-                  "assets/profile/IMG_3237.webp ",
-                  "assets/profile/IMG_0003.webp ",
                   "assets/profile/IMG_0193.webp ",
-                  "assets/profile/IMG_0716.webp ",
-                  "assets/profile/IMG_1446.webp ",
-                  "assets/profile/IMG_1499.webp ",
-                  "assets/profile/IMG_1918.webp ",
-
     ],
     defaultImage: "assets/profile/IMG_2611.webp",
 
